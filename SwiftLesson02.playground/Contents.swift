@@ -44,3 +44,22 @@ if d {
 }
 */
 
+// HomeWork
+
+// №1
+print("Максимальное значение Int = \(Int.max)\nМаксимальное значение UInt8 = \(UInt8.max)\nМинимальное значение Int = \(Int.min)\nМинимальное значение UInt8 = \(UInt8.min)")
+
+// №2
+let a = 1
+let b: Float = 2.3
+let c = 4.5
+let x = a + Int(b) + Int(c)
+let y = Float(a) + b + Float(c)
+let z = Double(a) + Double(b) + c
+
+// №3
+if Double(x) > z {
+    print("\(x) > \(z)")
+} else {
+    print("\(x) < \(z)")
+}
