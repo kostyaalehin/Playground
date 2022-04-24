@@ -33,5 +33,23 @@ var b = (x:2, y:3)
 
 b = a
 */
+/*
+let redColor = "red"
+let blueColor = "blue"
+let greenColor = "green"
+*/
+
+let (redColor, blueColor, greenColor) = ("red", "blue", "green")
+
+redColor
+greenColor
+blueColor
+
+let totalNumper = 5
+let merchantName = "Alex"
+print("\(totalNumper) \(merchantName)")
+print((totalNumper, merchantName))
+print(simpleTuple)
+
 
 
