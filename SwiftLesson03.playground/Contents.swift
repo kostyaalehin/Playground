@@ -51,5 +51,17 @@ print("\(totalNumper) \(merchantName)")
 print((totalNumper, merchantName))
 print(simpleTuple)
 
+// HomeWork
+// #1
 
+let sportTuple = (pushUps: 20, pullUps: 5, sitUps: 40)
+print(sportTuple)
+print("My Push Ups is \(sportTuple.pushUps), my pull-Ups is \(sportTuple.pullUps), my sit-Ups is \(sportTuple.sitUps)")
 
+// #2
+
+var secondSportTuple = (pushUps: 10, pullUps: 10, sitUps: 20)
+secondSportTuple.pushUps = sportTuple.pushUps
+secondSportTuple.pullUps = sportTuple.pullUps
+secondSportTuple.sitUps = sportTuple.sitUps
+print(secondSportTuple)
