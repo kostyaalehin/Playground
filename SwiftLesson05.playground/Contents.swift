@@ -46,3 +46,10 @@ var sum = 5
 sum = sum + 1
 sum += 1
 
+//шахматная доска
+let cell = (x:5, y:4)
+if cell.x % 2 == cell.y % 2 {
+    print("black")
+} else {
+    print("white")
+}
