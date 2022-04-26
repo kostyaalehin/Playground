@@ -1,9 +1,9 @@
 # Playground
 Alex Skutarenko's Course
 
-Lesson01 - the Basics
-Lesson02 - work with Basic Operators
-Lesson03 - tuples
-Lesson04 - optionals
-Lesson05 - 
-Lesson06 - strings
+Lesson01 - the Basics\n
+Lesson02 - work with Basic Operators\n
+Lesson03 - tuples\n
+Lesson04 - optionals\n
+Lesson05 - work with Basic Operators\n
+Lesson06 - strings\n
