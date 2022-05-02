@@ -9,3 +9,4 @@ Lesson05 - work with Basic Operators;
 Lesson06 - strings;
 Lesson07 - array;
 Lesson08 - dictionary;
+Lesson09 - switch;
