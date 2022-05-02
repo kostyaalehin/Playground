@@ -10,3 +10,4 @@ Lesson06 - strings;
 Lesson07 - array;
 Lesson08 - dictionary;
 Lesson09 - switch;
+Lesson10 - functions;
