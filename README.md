@@ -12,3 +12,4 @@ Lesson08 - dictionary;
 Lesson09 - switch;
 Lesson10 - functions;
 Lesson11 - closures;
+Lesson12 - enumerations;
