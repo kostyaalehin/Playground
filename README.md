@@ -1,7 +1,7 @@
 # Playground
 Alex Skutarenko's Course
 
-Lesson01 - the Basics;
+Lesson01 - the basics;
 Lesson02 - work with basic operators;
 Lesson03 - tuples;
 Lesson04 - optionals;
@@ -14,8 +14,8 @@ Lesson10 - functions;
 Lesson11 - closures;
 Lesson12 - enumerations;
 Lesson13 - structures and classes;
-Lesson14 - 
-Lesson15 - 
-Lesson16 - 
+Lesson14 - properties;
+Lesson15 - stored properties;
+Lesson16 - methods;
 Lesson17 - subscripts:
 
