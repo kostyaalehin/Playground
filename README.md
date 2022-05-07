@@ -14,3 +14,8 @@ Lesson10 - functions;
 Lesson11 - closures;
 Lesson12 - enumerations;
 Lesson13 - structures and classes;
+Lesson14 - 
+Lesson15 - 
+Lesson16 - 
+Lesson17 - subscripts:
+
