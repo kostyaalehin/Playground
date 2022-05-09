@@ -17,5 +17,6 @@ Lesson13 - structures and classes;
 Lesson14 - properties;
 Lesson15 - stored properties;
 Lesson16 - methods;
-Lesson17 - subscripts:
-
+Lesson17 - subscripts;
+Lesson18 - inheritance;
+Lesson19 - initialization;
