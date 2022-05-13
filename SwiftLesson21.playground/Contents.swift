@@ -1,3 +1,5 @@
+import Foundation
+
 class Address {
     
     var street = "Kim"
@@ -65,3 +67,48 @@ if p.cars?[0].start() != nil {
 } else {
     print("failure!")
 }
+
+// ---------------------
+
+class Symbol {
+    
+}
+
+class A : Symbol {
+    func aa() {}
+}
+
+class B : Symbol {
+    func bb() {}
+}
+
+//AnyObject
+//Any
+
+let array :  [Any] = [A(), B(), Symbol(), A(), A(), B(), NSObject(), {() -> () in return}]
+
+var aCount = 0
+var bCount = 0
+var sCount = 0
+
+for value in array {
+        
+    if value is A {
+        aCount += 1
+    } else if value is B {
+        bCount += 1
+    } else {
+        sCount += 1
+    }
+    
+    if let a = value as? A {
+        a.aa()
+    } else if let b = value as? B {
+        b.bb()
+    }
+    
+}
+
+aCount
+bCount
+sCount
