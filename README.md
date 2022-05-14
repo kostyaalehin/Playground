@@ -20,4 +20,6 @@
 * Lesson17 - subscripts;
 * Lesson18 - inheritance;
 * Lesson19 - initialization;
-* Lesson20 - automatic reference counting
+* Lesson20 - automatic reference counting;
+* Lesson21 - type casting;
+* Lesson22 - extensions;
