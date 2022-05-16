@@ -24,3 +24,5 @@
 * Lesson21 - type casting;
 * Lesson22 - extensions;
 * Lesson23 - bitwise operators;
+* Lesson24 - operator functions;
+* Lesson25 - protocols;
